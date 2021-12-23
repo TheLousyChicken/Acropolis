@@ -1,1 +1,0 @@
-root.geometry("600x600")
