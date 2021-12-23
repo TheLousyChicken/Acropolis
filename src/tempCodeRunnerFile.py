@@ -1,2 +1,1 @@
-import tkinter as tk
-from tkinter import *
+root.geometry("600x600")
